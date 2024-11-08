@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cornutron3000</title>
+  <link href="tailwind.min.css" rel="stylesheet">
+  <script src="frases.js"></script>
+    <style>
+    .fade-in {
+      transition: opacity 1s ease-in-out;
+    }
+	.bg-black {
+		background-color: black;
+	}
+	.hidden {
+		display: none;
+	}
+  </style>
+</head>
+<body class="bg-black text-white font-sans flex items-center justify-center h-screen">
+  <div class="max-w-md p-4 bg-black hidden opacity-0 fade-in" id="tweet-container">
+    <!-- Header with Profile Picture and Username -->
+    <div class="flex items-center mb-2">
+      <img src="pfp.jpg" alt="Profile Picture" class="rounded-full h-10 w-10 mr-2">
+      <div class="flex flex-col">
+        <span class="font-bold text-white">cornutron</span>
+        <span class="text-gray-500">@cornutron3000</span>
+      </div>
+      <button class="ml-auto text-sm font-semibold text-white bg-gray-700 px-3 py-1 rounded-lg" onclick="generate()">Cornudear</button>
+    </div>
+
+    <!-- Tweet Content -->
+    <p class="text-lg mb-2" id="tuit_texto">tene tu propio tweet de cornuda ya mismo! apreta en "cornudear", tuitea, genera likes.</p>
+    
+    <!-- Timestamp and Stats -->
+    <div class="text-gray-500 text-sm mb-2">
+      <span>13:23 · 07 nov 24 · </span>
+      <span>64,8K Visualizaciones</span>
+    </div>
+
+    <!-- Reactions -->
+    <div class="flex justify-between text-sm text-gray-500 border-t border-gray-600 pt-2">
+      <div class="flex items-center">
+        <span class="mr-1 font-semibold text-white">36k</span>
+        <span>Me gusta</span>
+      </div>
+      <div class="flex items-center">
+        <button class="ml-auto text-sm font-semibold text-white bg-blue-500 px-3 py-1 rounded-lg" onclick="tweet()">Tuitear</button>
+      </div>
+    </div>
+	
+	<div class="flex justify-between text-sm text-gray-500 border-t border-gray-600 mt-2 pt-2">
+      <div class="flex items-center">
+        <span class="mr-1">Un juguete de</span>
+        <a class="font-semibold text-white" href="https://maximoospital.xyz" target="_blank">Maximo Ospital</a>
+      </div>
+    </div>
+  </div>
+    <script>
+    // Wait for the entire page to load
+	window.addEventListener('load', () => {
+      // Get the tweet container div
+      const tweetContainer = document.getElementById('tweet-container');
+      // Remove 'hidden' and apply opacity-0 and fade-in effect
+      tweetContainer.classList.remove('hidden');
+      setTimeout(() => {
+        tweetContainer.classList.replace('opacity-0', 'opacity-100');
+      }, 10); // slight delay to allow the transition to work
+    });
+
+  </script>
+</body>
+</html>
