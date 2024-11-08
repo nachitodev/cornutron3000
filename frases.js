@@ -394,6 +394,8 @@ let tuit_select = "";
 function generate() {
 	const indice = Math.floor(Math.random() * cornudaTuits.length);
 	tuit_select = cornudaTuits[indice];
+	const likes = Math.floor(Math.random() * 90 + 10)
+	document.getElementById("likes").innerText = likes + "k";
 	document.getElementById("tuit_texto").innerText = tuit_select;
 	return tuit_select;
 }
