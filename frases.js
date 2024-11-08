@@ -396,6 +396,24 @@ function generate() {
 	tuit_select = cornudaTuits[indice];
 	const likes = Math.floor(Math.random() * 90 + 10)
 	document.getElementById("likes").innerText = likes + "k";
+	const views = Math.floor(Math.random() * 90 + 10)
+	document.getElementById("views").innerText = views + "k Visualizaciones";
+	function addZero(i) {
+	  if (i < 10) {i = "0" + i}
+	  return i;
+	}
+
+	const d = new Date();
+	let h = addZero(d.getHours());
+	let m = addZero(d.getMinutes());
+	let time = h + ":" + m;
+	const formattedDate = new Intl.DateTimeFormat('en-GB', {
+	  day: '2-digit',
+	  month: 'short',
+	  year: 'numeric'
+	}).format(d);
+	document.getElementById("hora").innerText = time;
+	document.getElementById("fecha").innerText = formattedDate;
 	document.getElementById("tuit_texto").innerText = tuit_select;
 	return tuit_select;
 }
