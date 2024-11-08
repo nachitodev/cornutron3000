@@ -524,12 +524,15 @@ const cornudaTuits = [
 ];
 
 let tuit_select = "";
-let tuit_url = "https://maximoospital.xyz/cornutron3000/"
+let tuit_url = "https://maximoospital.xyz/cornutron3000/";
 
 
 
 function generate() {
 	// Elije una frase
+  tuit_select = "";
+  tuit_url = "https://maximoospital.xyz/cornutron3000/";
+  document.getElementById("imagen").classList.add('hidden');
 	const indice = Math.floor(Math.random() * cornudaTuits.length);
 	tuit_select = cornudaTuits[indice];
 	// Crea likes y visitas random
@@ -555,7 +558,7 @@ function generate() {
 	document.getElementById("fecha").innerText = formattedDate;
 	document.getElementById("tuit_texto").innerText = tuit_select;
 	// Elije una foto
-	if (Math.random() < 0.75) {
+	if (Math.random() < 0.5) {
 		const indice_foto = Math.floor(Math.random() * (28 - 1) + 1);
 		var urlnew = tuit_url + indice_foto + ".html";
 		document.getElementById("imagen").setAttribute('src', "imagen_"+indice_foto+".jpeg");
