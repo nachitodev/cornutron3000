@@ -369,6 +369,140 @@ const cornudaTuits = [
     "me encantaría dejar de preocuparme por todo y todos.",
     "me cansa tener que sonreír cuando no quiero.",
     "ojalá pudiera dejar de pensar tanto en todo.",
+	 "es increible como el cuerpo te pasa factura de los nervios, de la tristeza, de la preocupacion, de todo",
+  "me aleje de todo, no tengo problemas, no jodo a nadie, si me hablan contesto, pero ya no busco a nadie. probablemente nadie sepa de mi vida y si saben es lo que quiero que sepan. nunca estuve tan tranquila.",
+  "podemos normalizar el termino conocidos??? no son todos amigos",
+  "me caen mal los que cambian de actitud cuando estan con otra gente",
+  "me puse a mirar nuestras fotos y videos y me largue a llorar creo q me voy a sui.cidar",
+  "es increible como la intuicion nunca falla",
+  "que lindo es sacarse la bronca en el gym ahre levanto 2 kg",
+  "solo quiero volver a sentir ese amor que me dabas",
+  "increible lo rapido q se puede caminar enojada",
+  "una dice no hay crisis pero quiere tomar clona",
+  "cuando la recaida es tan fuerte q queres volver a fumar",
+  "hace 13hs no contesta duerme una banda lo amo jajaja",
+  "a veces hay que mandar a la concha de su madre y seguir",
+  "ayudame a odiarte, no quiero amarte mas",
+  "mi vida se basa en intentar no recaer, y terminar recayendo",
+  "la tristeza q me da ser insuficieente",
+  "esos boluditos no m causan nada",
+  "sos el chico que mas hermoso se ve fumando",
+  "detesto no saber si pensas en mi",
+  "el chico con el que me veo me dijo que hace unos meses hizo una lista de como seria su novia ideal y esa chica soy yo, y el otro dia otro me dijo que me viene manifestando a mi",
+  "el amor tiene limites",
+  "nunca me siento estar donde deberia estar",
+  "cuanto mas te gusta algo mas lo necesitas lejos",
+  "no estas triste son tus 20s",
+  "yo solo quiero entender",
+  "a veces toca aceptar q sos un idiota y fue",
+  "me acabo de dar cuenta que no podria manejar un auto xq vivo disociada",
+  "lo bueno de disociar es no pensar en el camino",
+  "mi vida es disociar para escapar de mi vida",
+  "lo q me cuesta concentrarme, cuando quiero prestar atencion intento obligarme a ello o disocio",
+  "las chicas despues de estar con el que ni nos parecia lindo",
+  "escuchar musica mientras te preparas para salir es de las mejores experiencias de las chicas",
+  "las chicas cuando empezamos a dimensionar lo mal que estamos y terminamos sentadas en el piso del baño llorando sin poder parar",
+  "las chicas nos entregamos completamente cuando amamos y terminamos rotas",
+  "solo queda fingir demencia",
+  "se finge demencia y se sigueeee",
+  "las chicas sabemos que nos merecemos mas pero seguimos ahi porq lo amamos y tenemos la falsa esperanza de que algun dia cambie",
+  "dormi con el despues de que literalmente me haya confesado que estaba enamorado de otra",
+  "como que te parecio piola una chica, retractate",
+  "querido dios se que he sido una perra casi toda mi vida pero por favor no me dejes morir",
+  "vine a su casa nada mas para hablar y terminamos cojiendo",
+  "me garche al mejor amigo a escondidas y despues me fui a dormir con el otro jskkjs q se joda por tratarme mal",
+  "ojala no se le pare el pito con la otra",
+  "mio o nada, mio o q no exista, mio o q no respire, mio o q muera, mio o q le corten el pito si se le para con otra, mio o q se quede ciego si ve a otra",
+  "cuando el sin querer me mira las historias sin responderme y yo sin querer me subo en la chota de otro",
+  "q tanto les cuesta a los varones ser fieles dejen de pensar con la cabeza de la chota",
+  "porque le encanta ir a la cama conmigo pero no quiere nada mas",
+  "buenos dias para mi que me dieron como cajon que no cierra que linda es la vida cuando te pegan una samarreada",
+  "soñe q tomaba un te con su pito adentro jajaj q macumbera",
+  "extingan a las trolas",
+  "muerte a las trolas",
+  "dios patria y familiaaaaaa",
+      "cuantos gatos mas necesito para no sentirme sola?",
+    "quien soy y por qué estoy en esta fiesta? 🥴",
+    "mirando las estrellas y pensando que nada tiene sentido",
+    "si te sirve de consuelo, yo tampoco tengo idea de lo que estoy haciendo",
+    "te pienso y me duele todo, hasta el orgullo",
+    "cansada de ser la psicóloga del grupo y nadie escucha mis problemas",
+    "quería paz pero terminé en este desastre emocional",
+    "estoy en una montaña rusa de emociones, pero sin cinturón",
+    "hoy me levante con ganas de desaparecer, literal",
+    "en mis tiempos libres pienso en lo que podría haber sido",
+    "amo el drama hasta que me toca a mí",
+    "si no lloro al menos una vez al mes, no estoy siendo yo",
+    "quiero que me extrañes aunque no lo merezca",
+    "tengo un doctorado en inventar problemas donde no los hay",
+    "extraño cuando todo era más simple, o sea, ayer",
+    "cada tanto necesito un reset emocional y llorar en el baño",
+    "ojalá me amara como yo me amo cuando tengo autoestima",
+    "y si me olvido de vos para siempre? sería mejor?",
+    "es hermoso estar triste pero en paz",
+	"nunca, nunca, nunca amen tanto a un hombre",
+    "cuando me veo en fotos antiguas y me pregunto ¿en qué momento cambió todo?",
+  "rels b una vez dijo 'yo nunca te he hablado de ella? ella era como una puesta de sol, sabes? como mirar el mar despues de mucho tiempo, mi hogar' y me recuerda a el.",
+  "se re tomaba el tiempo jkskjasj remil fan",
+  "y como ultimo gesto de amor m voy a suicidar 🥰",
+  "buen dia estoy loca y me voy a suici.dar",
+  "me voy a sui.cidar cualquier cosita m hablan x la ouija",
+  "me quiero sui.cidar o es domingo nomas",
+  "y a este truco lo llamo me voy a sui.cidar",
+  "me puse a mirar nuestras fotos y me voy a sui.cidar porque porque hijo de puta porque",
+  "hola estoy loca (triste)",
+  "ya me diste el acierto que neceistaba para alejarme de vos, xq la queres a ella si me buscas a mi",
+  "jaja me esta re mintiendo este hijo de puta",
+  "'te lo oculte para que no te sientas mal'",
+  "me enoje con el asi que no me agarra de el en la mato y empezo a ir rapido mientras decia qu eme voy a tener q agarrar si o si lo amo",
+  "me duele pensar que nunca supiste lo que sentía por vos",
+  "a veces me pongo nostálgica y me imagino lo que pudo haber sido",
+  "nunca supe manejar bien los sentimientos, siempre me terminan pasando factura",
+  "la vida seria más fácil si pudiéramos leer la mente de los demás",
+  "te juro que esta vez me iré sin mirar atrás",
+  "las chicas cuando vemos que ya no hay vuelta atrás y decimos basta",
+  "me merezco algo que me haga bien, no algo que me haga llorar",
+  "me canse de idealizar a gente que no lo merece",
+  "solo quiero encontrar paz en algún rincón de esta ciudad",
+  "a veces quiero ser valiente, pero el miedo me paraliza",
+  "es difícil decir adiós cuando te duele el corazón",
+  "ojalá la vida fuera más simple, menos complicada",
+  "me abrazo a mis recuerdos porque el presente duele demasiado",
+  "por qué será que cuanto más amo, más me duele",
+  "creo que el amor debería ser menos tormentoso",
+  "no es falta de amor, es falta de paz",
+  "el amor duele, pero también sana",
+  "a veces, las chicas solo queremos que nos escuchen",
+  "las chicas cuando nos damos cuenta que el amor no siempre es suficiente",
+  "me encantaría volver a ese momento donde era feliz sin saberlo",
+  "los recuerdos me persiguen, aunque intente escapar",
+  "cómo duele extrañar a alguien que ya no te extraña",
+  "una chica que ama, pero que también sabe dejar ir",
+  "cuando aprendes a amarte, dejas de mendigar cariño",
+  "ojalá supieras cuánto significabas para mí",
+  "te guardo en un rincón del alma, aunque ya no estés",
+  "me volví a perder en esos ojos que ya no me miran igual",
+  "a veces el amor es decir adiós sin despedirse",
+  "necesito tiempo para sanar lo que dejaste en mí",
+  "es difícil amar cuando el corazón está lleno de cicatrices",
+  "te quiero, pero ya no te necesito para ser feliz",
+  "a veces el amor es dejar ir y seguir adelante",
+  "cómo explicarle al corazón que ya no debe amar",
+  "me siento perdida, pero sé que encontraré el camino",
+  "daría todo por verte una vez más",
+  "ojalá el amor no doliera tanto",
+  "me queda claro que merezco algo mejor",
+  "amar también es aprender a soltar",
+  "me canse de esperar algo que nunca llegará",
+  "a veces el amor es aceptar que ya no somos los mismos",
+  "extraño la forma en que solíamos ser",
+  "a veces solo quiero desaparecer por un rato",
+  "la vida debería ser más amable con nosotras",
+  "te dejé ir porque merezco paz",
+  "me duele recordar, pero me duele más olvidar",
+  "me entregué por completo y me quedé vacía",
+  "a veces hay que hacerle caso al corazón roto",
+  "no estoy triste, solo estoy aprendiendo a vivir sin vos",
     "me gustaría ser alguien que no se complica la vida.",
     "odio cuando me siento sola estando rodeada de gente.",
     "me encantaría aprender a dejar ir y no mirar atrás.",
@@ -390,10 +524,15 @@ const cornudaTuits = [
 ];
 
 let tuit_select = "";
+let tuit_url = "https://maximoospital.xyz/cornutron3000/"
+
+
 
 function generate() {
+	// Elije una frase
 	const indice = Math.floor(Math.random() * cornudaTuits.length);
 	tuit_select = cornudaTuits[indice];
+	// Crea likes y visitas random
 	const likes = Math.floor(Math.random() * 90 + 10)
 	document.getElementById("likes").innerText = likes + "k";
 	const views = Math.floor(Math.random() * 90 + 10)
@@ -402,7 +541,7 @@ function generate() {
 	  if (i < 10) {i = "0" + i}
 	  return i;
 	}
-
+	// Fecha del tweet (hoy)
 	const d = new Date();
 	let h = addZero(d.getHours());
 	let m = addZero(d.getMinutes());
@@ -415,16 +554,31 @@ function generate() {
 	document.getElementById("hora").innerText = time;
 	document.getElementById("fecha").innerText = formattedDate;
 	document.getElementById("tuit_texto").innerText = tuit_select;
-	return tuit_select;
+	// Elije una foto
+	if (Math.random() < 0.75) {
+		const indice_foto = Math.floor(Math.random() * (28 - 1) + 1);
+		var urlnew = tuit_url + indice_foto + ".html";
+		document.getElementById("imagen").setAttribute('src', "imagen_"+indice_foto+".jpeg");
+		document.getElementById("imagen").classList.remove('hidden');
+		document.getElementById("imagen").onload = () => {
+			setTimeout(() => {
+				document.getElementById("imagen").classList.replace('opacity-0', 'opacity-100');
+			}, 10);
+		}
+		
+		tuit_url = urlnew;		
+	}
+	// imagen_1.jpeg
+	return tuit_select;	
 }
 	
 function tweet() {
 	if(tuit_select != "") {
 		const frase_formateada = encodeURIComponent(tuit_select.trim());
-		const url = "https://twitter.com/intent/tweet?text="+ frase_formateada +"&url=https%3A%2F%2Fmaximoospital.xyz%2Fcornutron3000";
+		const url = "https://twitter.com/intent/tweet?text="+ frase_formateada +"&url="+ tuit_url;
 		window.open(url, '_blank').focus();
 	} else {
-		const url = "https://twitter.com/intent/tweet?text=miren%20este%20sitio%20jijo&url=https%3A%2F%2Fmaximoospital.xyz%2Fcornutron3000";
+		const url = "https://twitter.com/intent/tweet?text=miren%20este%20sitio%20jijo&url=="+ tuit_url;
 		window.open(url, '_blank').focus();
 	}
 }
