@@ -34,10 +34,11 @@
 	.hidden {
 		display: none;
 	}
+
   </style>
 </head>
 <body class="bg-black text-white font-sans flex items-center justify-center h-screen">
-  <div class="max-w-md p-4 bg-black hidden opacity-0 fade-in" id="tweet-container">
+  <div class="max-w-md p-4 bg-black hidden opacity-0 fade-in" id="tweet_container">
     <!-- Header with Profile Picture and Username -->
     <div class="flex items-center mb-2">
       <img src="pfp.jpg" alt="Profile Picture" class="rounded-full h-10 w-10 mr-2">
@@ -50,7 +51,7 @@
 
     <!-- Tweet Content -->
     <p class="text-lg mb-2" id="tuit_texto">tene tu propio tweet de cornuda ya mismo! apreta en "cornudear", tuitea, genera likes.</p>
-    
+    <img class="rounded-xl mt-2 mb-2 hidden opacity-0 fade-in" id="imagen" src="" />
     <!-- Timestamp and Stats -->
     <div class="text-gray-500 text-sm mb-2">
       <span><span id="hora">13:23</span> · <span id="fecha">07 nov 24</span> · </span>
@@ -79,7 +80,7 @@
     // Wait for the entire page to load
 	window.addEventListener('load', () => {
       // Get the tweet container div
-      const tweetContainer = document.getElementById('tweet-container');
+      const tweetContainer = document.getElementById('tweet_container');
       // Remove 'hidden' and apply opacity-0 and fade-in effect
       tweetContainer.classList.remove('hidden');
       setTimeout(() => {
