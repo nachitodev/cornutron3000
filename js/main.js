@@ -45,6 +45,12 @@ function generate() {
 		console.log(urlnew)
 		tuit_url = urlnew;
 	}
+	// Foto de perfil aleatoria
+	const randomNum = Math.floor(Math.random() * 10) + 1;
+
+	const randomImagePath = `/img/pfp/pfp_${randomNum}.jpg`;
+	document.getElementById("profile-picture").src = randomImagePath;
+
 	return tuit_select;
 }
 
